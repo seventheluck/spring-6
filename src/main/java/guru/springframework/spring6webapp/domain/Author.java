@@ -5,7 +5,7 @@ import jakarta.persistence.*;
 import java.util.Set;
 
 /**
- * Created
+ * Created by Peter
  * */
 @Entity
 public class Author {
