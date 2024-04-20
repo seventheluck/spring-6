@@ -4,6 +4,9 @@ import jakarta.persistence.*;
 
 import java.util.Set;
 
+/**
+ * Created by Peter
+ * */
 @Entity
 public class Book {
     @Id
